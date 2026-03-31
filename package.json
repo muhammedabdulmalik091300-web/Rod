@@ -1,0 +1,1 @@
+{\n  "name": "youtube-audience-tracking-app",\n  "version": "1.0.0",\n  "description": "A Node.js application for tracking YouTube audience metrics.",\n  "main": "src/index.js",\n  "scripts": {\n    "test": "jest"\n  },\n  "dependencies": {\n    "rod": "^1.0.0"\n  },\n  "devDependencies": {\n    "jest": "^26.6.0"\n  },\n  "author": "",\n  "license": "ISC"\n}
